@@ -1,2 +1,4 @@
 # CommonLit
 kaggle「CommonLit Readability Prize」コンペで使用したコードをアップロードします。
+
+「standard_error_multitrain.ipynb」：standard_errorを使用したマルチタスク学習及び推論を行なったコードです。公開notebookのシングルベストモデルを超えたコードです。
